@@ -1,0 +1,12 @@
+ADD_CHILD 'Flora' Minerva Female
+GET_RELATIONSHIP Remus Maternal-Aunt
+GET_RELATIONSHIP Minerva Siblings
+ADD_CHILD Luna Lola Female
+GET_RELATIONSHIP Luna Maternal-Aunt
+ADD_CHILD Ted Bella Female
+GET_RELATIONSHIP Remus Siblings
+GET_RELATIONSHIP Lily Sister-in-law
+FIND_OLDER Louis Charlie
+FIND_OLDER Gurmeet Louis
+FIND_OLDER Charlie Jean
+FIND_OLDER King Arthur Bill
